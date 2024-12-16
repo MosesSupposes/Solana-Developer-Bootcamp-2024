@@ -2,3 +2,6 @@
 /test-ledger
 /*/test-ledger/*
 teachers-solutions/*
+.nx/cache
+/*/Cargo.lock
+/*/package.lock.json
