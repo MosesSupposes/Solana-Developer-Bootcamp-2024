@@ -2,5 +2,5 @@
   "name": "Example Coin",
   "symbol": "EXMPL",
   "description": "Example token for Solana Foundation Bootcamp",
-  "image": ""
+  "image": "https://github.com/MosesSupposes/Solana-Developer-Bootcamp-2024/blob/1cb168aa30a19b9e67ff13e156623fd53af31119/project-5-tokens/new-token/exmpl-coin.png"
 }
