@@ -1,0 +1,5 @@
+{
+  "name": "My NFT",
+  "description": "a sample NFT connected to the Example Coin collection",
+  "image": "https://raw.githubusercontent.com/mosessupposes/solana-developer-bootcamp-2024/root/project-5-tokens/new-token/exmpl-coin.png"
+}
