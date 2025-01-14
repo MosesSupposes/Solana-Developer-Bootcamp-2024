@@ -5,3 +5,4 @@ teachers-solutions/*
 .nx/cache
 /*/Cargo.lock
 /*/package.lock.json
+/*/node_modules
