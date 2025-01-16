@@ -1,11 +1,12 @@
 [toolchain]
+version = "1.79.0"
 
 [features]
 resolution = true
 skip-lint = false
 
 [programs.localnet]
-swap = "HpWcH6ZE7bYhXPzDiJEpypi33baPEi7ZYyCTYDrcwPFL"
+swap = "Ae7T6rvZ87pYV8ZUyJXQeUEaTSR9w2vkeSJyNJnTJD1J"
 
 [registry]
 url = "https://api.apr.dev"
